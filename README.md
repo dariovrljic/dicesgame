@@ -1,4 +1,4 @@
 # dicesgame
-Creating random dice refreshing pager or clicking anywhear on body!
+Creating random dice images refreshing pager or clicking anywhear on body!
 
-I'm just practicing HTML, CSS and JS DOM
+Just practicing HTML, CSS and JS DOM
